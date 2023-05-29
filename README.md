@@ -6,9 +6,9 @@ Este notebook explora conceitos iniciais de estatística e apresenta uma simula�
 
 O notebook inclui os seguintes aspectos:
 
-1. Definição da distribuição normal: São apresentados conceitos básicos sobre a distribuição normal, como média e desvio padrão, bem como sua representação matemática.
+1. Definição da distribuição normal gaussiana e da binomial.
 
-2. Simulação da distribuição normal: Utilizando uma biblioteca de números pseudoaleatórios, são gerados valores seguindo uma distribuição normal. Os valores gerados são então comparados com a distribuição teórica esperada.
+2. Simulação da distribuição normal. São gerados valores seguindo uma distribuição normal. Os valores gerados são então comparados com a distribuição teórica esperada.
 
 3. Visualização dos resultados: Os resultados são apresentados em um gráfico que mostra a distribuição teórica e a distribuição simulada em um histograma. Isso permite uma comparação visual entre as duas distribuições.
 
