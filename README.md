@@ -6,3 +6,5 @@ Este notebook explora conceitos iniciais de estatística e apresenta uma simula�
 
 # Método de monte carlo -- coeficiente angular
 Como a distribuição do estimador de mínimos quadrados do coeficiente angular é afetada ao aumentar o tamanho da amostra? Esse é um tópico importante em econometria. Estamos brincando de Deus para visualizar e entender melhor a teoria. Podemos demonstrar de fato o que acontece com os dados quando o número de observações aumenta. 
+
+Link do prórum com o exercício: http://prorum.com/?qa=8083/distribuicao-estimador-quadrados-coeficiente-angular-aumentar
