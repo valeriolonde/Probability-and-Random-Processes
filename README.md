@@ -11,6 +11,7 @@ Link do prórum com o exercício: http://prorum.com/?qa=8083/distribuicao-estima
 
 # Método de monte carlo -- média e mediana
 Como usar monte carlo para simular diferentes cenários e obter estimativas sobre o período que Marcelo pode ficar sem trabalhar, levando em consideração a distribuição de gastos e o investimento disponível?
+Sobre eficiência. Existe uma forma que em geral é mais eficiente de gerar números aleatórios, que é tentar gerar a lista de uma só vez, em vez de gerar um número por vez dentro do loop. 
 
 Link do prórum com o exercício: http://prorum.com/?qa=8085/estimativas-consideracao-distribuicao-investimento-disponivel
 
