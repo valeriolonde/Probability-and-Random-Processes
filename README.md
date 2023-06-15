@@ -17,4 +17,6 @@ Link do prórum com o exercício: http://prorum.com/?qa=8085/estimativas-conside
 
 # Sequência de variáveis aleatórias uniformes
 Gerando uma sequência de 1000 variáveis aleatórias uniformes e plotando o gráfico de $S_n$ e $S_n/n$. Além disso, foi feita uma comperação entre o uso de broadcasting nesse caso e sem o uso de broadcasting. 
+[Sequências de variáveis aleatórias uniformes](https://github.com/valeriolonde/Probability-and-Random-Processes/blob/main/Sequ%C3%AAncias%20de%20vari%C3%A1veis%20aleat%C3%B3rias%20uniformes.ipynb)
+
 
