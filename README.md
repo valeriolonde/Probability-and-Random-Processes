@@ -15,3 +15,6 @@ Sobre eficiência. Existe uma forma que em geral é mais eficiente de gerar núm
 
 Link do prórum com o exercício: http://prorum.com/?qa=8085/estimativas-consideracao-distribuicao-investimento-disponivel
 
+# Sequência de variáveis aleatórias uniformes
+Gerando uma sequência de 1000 variáveis aleatórias uniformes e plotando o gráfico de $S_n$ e $S_n/n$. Além disso, foi feita uma comperação entre o uso de broadcasting nesse caso e sem o uso de broadcasting. 
+
